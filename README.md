@@ -97,12 +97,8 @@ Git • GitHub • VS Code • Docker • Linux
 
 <p>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/novestus-kipkorir-208784305/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
-</a>
-
-<a href="https://github.com/KipkoirNovestus">
-<img src="https://skillicons.dev/icons?i=github" height="20"/>
 </a>
 
 </p>
