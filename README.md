@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kipkorir Novestus</h1>
 
-<!--
-**KipkoirNovestus/KipkoirNovestus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Full+Stack+Engineer;Cloud+Engineer+(AWS+Certified);Healthcare+Tech+Builder&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 About Me
+
+💻 Software Developer passionate about building **scalable applications and healthcare systems**.
+
+- 🔭 Currently building **Healthcare Monitoring Platforms**
+- 🌱 Expanding expertise in **Cloud Architecture & Distributed Systems**
+- 🤝 Open to collaborations on **healthcare, AI, and cloud-native applications**
+- ☁️ **AWS Cloud Certified (3 Certifications)**
+
+---
+
+# 🚀 Tech Stack
+
+### Mobile Development
+Flutter • Dart
+
+### Frontend
+React • TypeScript
+
+### Backend
+Node.js • REST APIs • API Integration
+
+### Database
+PostgreSQL
+
+### Cloud & DevOps
+AWS Cloud (3x Certified)
+
+### Tools
+Git • GitHub • VS Code • Docker • Linux
+
+---
+
+# 🧰 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,typescript,postgres,aws,git,github,docker,vscode,linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KipkoirNovestus&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkoirNovestus&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KipkoirNovestus&theme=tokyo-night"/>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KipkoirNovestus&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/KipkoirNovestus/KipkoirNovestus/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/KipkoirNovestus">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 📱 Cross-platform mobile apps with **Flutter**
+- ☁️ Cloud infrastructure with **AWS**
+- ⚙️ Backend services with **Node.js**
+- 🔗 API integrations and system architecture
+- 🏥 Healthcare technology innovation
+
+---
+
+⭐ *Building scalable technology that improves lives.*
