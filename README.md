@@ -86,11 +86,11 @@ Git • GitHub • VS Code • Docker • Linux
 <p>
 
 <a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="20"/>
 </a>
 
 <a href="https://github.com/KipkoirNovestus">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="20"/>
 </a>
 
 </p>
