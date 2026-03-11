@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 💻 Software Developer passionate about building **scalable applications and healthcare systems**.
 
@@ -17,7 +17,7 @@
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Mobile Development
 Flutter • Dart
@@ -39,7 +39,7 @@ Git • GitHub • VS Code • Docker • Linux
 
 ---
 
-# 🧰 Technologies
+# Technologies
 
 <p align="center">
 
@@ -49,7 +49,7 @@ Git • GitHub • VS Code • Docker • Linux
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -61,13 +61,13 @@ Git • GitHub • VS Code • Docker • Linux
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KipkoirNovestus&theme=tokyo-night"/>
 
 ---
 
-# 👀 Profile Visitors
+# Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KipkoirNovestus&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -75,13 +75,13 @@ Git • GitHub • VS Code • Docker • Linux
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 ![snake gif](https://github.com/KipkoirNovestus/KipkoirNovestus/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p>
 
@@ -97,13 +97,13 @@ Git • GitHub • VS Code • Docker • Linux
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 - 📱 Cross-platform mobile apps with **Flutter**
 - ☁️ Cloud infrastructure with **AWS**
 - ⚙️ Backend services with **Node.js**
 - 🔗 API integrations and system architecture
-- 🏥 Healthcare technology innovation
+- 🏥 Healthcare technology innovation with Ai and Websites.
 
 ---
 
