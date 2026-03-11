@@ -53,9 +53,19 @@ Git • GitHub • VS Code • Docker • Linux
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KipkoirNovestus&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KipkoirNovestus&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkoirNovestus&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KipkoirNovestus&theme=tokyonight&include_all_commits=true"/>
+
+</p>
+
+---
+
+# Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KipkoirNovestus&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -63,14 +73,16 @@ Git • GitHub • VS Code • Docker • Linux
 
 # Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KipkoirNovestus&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KipkoirNovestus&theme=tokyo-night&area=true"/>
 
 ---
 
 # Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=KipkoirNovestus&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
@@ -103,7 +115,7 @@ Git • GitHub • VS Code • Docker • Linux
 - ☁️ Cloud infrastructure with **AWS**
 - ⚙️ Backend services with **Node.js**
 - 🔗 API integrations and system architecture
-- 🏥 Healthcare technology innovation with Ai and Websites.
+- 🏥 Healthcare technology innovation with AI and web platforms
 
 ---
 
